@@ -17,6 +17,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Esma203/github-intellij-demo1",
+    "accountId": "6499a939-64d2-4f59-ab35-e60d9ccff33c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -27,8 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/github-intellij-demo1/src/Main.java",
@@ -71,6 +79,27 @@
       <option name="presentableId" value="Default" />
       <updated>1772275151467</updated>
     </task>
+    <task id="LOCAL-00001" summary="enbüyüksayıbulmaalgoritması">
+      <option name="closed" value="true" />
+      <created>1772277836147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772277836147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="enbüyüksayıbulmaalgoritması">
+      <option name="closed" value="true" />
+      <created>1772278168882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772278168882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enbüyüksayıbulmaalgoritması" />
+    <option name="LAST_COMMIT_MESSAGE" value="enbüyüksayıbulmaalgoritması" />
   </component>
 </project>
